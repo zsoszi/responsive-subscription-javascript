@@ -11,6 +11,7 @@
 		background: hsl(0, 0%, 89%);
 		display: grid;
 		text-align: left;
+		overflow: hidden;
 	}
 	.col1 {
 		background: hsl(0, 0%, 100%);
@@ -115,6 +116,7 @@
 		background: hsl(0, 0%, 89%);
 		display: grid;
 		text-align: left;
+		overflow: hidden;
 	}
 	.col1 {
 		background: hsl(0, 0%, 100%);
